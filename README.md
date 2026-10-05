@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Victor
 
-<!--
-**Victor8aa/Victor8aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería en Sistemas de Información** en la **Universidad de Sonora (UNISON)**.
 
-Here are some ideas to get you started:
+💻 Me interesa el desarrollo de software, las bases de datos, las redes y la inteligencia artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y herramientas
+
+- JavaScript
+- SQL / Bases de datos
+- MySQL
+- PostgreSQL
+- Python
+- Git & GitHub
+- Packet Tracer
+- Linux
+
+### 📚 Sobre mis proyectos
+
+En este perfil comparto algunos de los proyectos y trabajos que he realizado durante mi formación en la UNISON, incluyendo prácticas, proyectos de bases de datos, programación y redes.
+
+### 🚀 Actualmente aprendiendo
+
+- Desarrollo de sistemas
+- Administración de bases de datos
+- Redes y comunicación de datos
+- Inteligencia artificial
+
+### 📫 Contacto
+
+Puedes encontrar mis proyectos y trabajos académicos aquí mismo en GitHub.
+
+---
+
+⭐ Gracias por visitar mi perfil.
